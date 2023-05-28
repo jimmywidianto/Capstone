@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Capstone</string>
+    <string name="app_name">Octabar Connect</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -18,18 +18,18 @@
 
     <string-array name="data_mitra">
         <!--    perikanan-->
-        <item>AKUR</item>
-        <item>BAROKAH</item>
-        <item>ADIGUNG SENTANA</item>
-        <item>CANDRA</item>
+        <item>AKUR - Perikanan</item>
+        <item>BAROKAH - Perikanan</item>
+        <item>ADIGUNG SENTANA - Perikanan</item>
+        <item>CANDRA - Perikanan</item>
         <!--    pertanian-->
-        <item>Mitra Tani Indonesia</item>
-        <item>Mitra Tani Dua Tujuh</item>
-        <item>Yayasan Agri Sustineri Indonesia</item>
-        <item>Mitra Tani Mandiri</item>
+        <item>Mitra Tani Indonesia - Pertanian</item>
+        <item>Mitra Tani Dua Tujuh - Pertanian</item>
+        <item>Yayasan Agri Sustineri Indonesia - Pertanian</item>
+        <item>Mitra Tani Mandiri - Pertanian</item>
         <!--    umkm-->
-        <item>AKUMANDIRI</item>
-        <item>Komunitas Eksportir Muda Indonesia(KEMI)</item>
+        <item>AKUMANDIRI - UMKM</item>
+        <item>Komunitas Eksportir Muda Indonesia(KEMI) - UMKM</item>
     </string-array>
 
     <string-array name="desc_mitra">

@@ -8,6 +8,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
+import com.example.capstone.LokasiActivity
 import com.example.capstone.R
 
 class DetailMitraActivity : AppCompatActivity() {
@@ -22,6 +23,7 @@ class DetailMitraActivity : AppCompatActivity() {
         val tvDetailDescription: TextView = findViewById(R.id.tv_detail_description)
         val ivDetailPhoto: ImageView = findViewById(R.id.iv_detail_photo)
         val btnTelp: Button = findViewById(R.id.btn_telp)
+        val btnTelp1: Button = findViewById(R.id.btn_telp1)
 
         tvDetailName.text = dataMitra?.namaMitra
         tvDetailDescription.text = dataMitra?.descMitra
@@ -33,6 +35,11 @@ class DetailMitraActivity : AppCompatActivity() {
             val intent = Intent()
             intent.action = Intent.ACTION_DIAL
             intent.data = Uri.parse("tel:" + dataMitra?.noTelp)
+            startActivity(intent)
+        }
+
+        btnTelp1.setOnClickListener {
+            intent = Intent(this, LokasiActivity::class.java)
             startActivity(intent)
         }
     }
