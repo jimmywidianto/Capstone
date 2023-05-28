@@ -10,4 +10,99 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="nama_mitra">Nama Mitra</string>
+    <string name="description">Deskripsi</string>
+    <string name="no_telp">No Telp</string>
+    <string name="hubungi">Hubungi</string>
+
+    <string-array name="data_mitra">
+        <!--    perikanan-->
+        <item>AKUR</item>
+        <item>BAROKAH</item>
+        <item>ADIGUNG SENTANA</item>
+        <item>CANDRA</item>
+        <!--    pertanian-->
+        <item>Mitra Tani Indonesia</item>
+        <item>Mitra Tani Dua Tujuh</item>
+        <item>Yayasan Agri Sustineri Indonesia</item>
+        <item>Mitra Tani Mandiri</item>
+        <!--    umkm-->
+        <item>AKUMANDIRI</item>
+        <item>Komunitas Eksportir Muda Indonesia(KEMI)</item>
+    </string-array>
+
+    <string-array name="desc_mitra">
+        <!--    perikanan-->
+        <item>AKUR merupakan mitra perikanan yang didirikan pada 1 Januari 1970. Mitra perikanan ini masih aktif hingga sekarang,
+            dan berkategori pembenihan untuk ikan lele.\n\n
+            Mitra AKUR berlokasi di Dusun Kuwarakan RT/RW 01/03, Desa Girikulon,Secang.\n\n
+        </item>
+        <item>BAROKAH adalah mitra perikanan berkategori pengolahan dan pemasaran hasil perikanan untuk ikan nila, yang didirikan pada 11 Februari 2016.
+            Mitra perikanan ini masih aktif hingga saat ini.\n\n
+            Mitra BAROKAH  ini beralamatkan di Jl. Embong Kenanga No. 68 Surabaya 60271.\n\n
+        </item>
+        <item>ADIGUNG SENTANA merupakan mitra perikanan yang didirikan pada 1 Januari 2021. Mitra perikanan ini masih aktif hingga sekarang,
+            dan berkategori pembesaran untuk ikan gurame.\n\n
+            Mitra ADIGUNG SENTANA ini berlokasi di Kompleks Pertokoan Penuin Centre Blok K No. 9 Batam Timur, Batam.\n\n
+        </item>
+        <item>CANDRA dalah mitra perikanan berkategori pembenihan untuk ikan hias, yang didirikan pada 13 Januari 2020.
+            Mitra perikanan ini masih aktif hingga saat ini.\n\n
+            Mitra CANDRA  ini beralamatkan di Jl. Pepaya No. 246 RT. 05 RW. 04, Tambak reja, Cilacap, Jawa Tengah.\n\n
+        </item>
+        <!--    pertanian-->
+        <item>Mitra Tani Indonesia merupakan perusahaan yang berada di Kabupaten Magelang yang bergerak dalam bidang pertanian, yaitu sebagai penyedia pupuk.
+            Mitra ini didirikan pada tahun 2021.\n\n
+            Mitra pertanian ini beralamatkan di Jln. Talun, Tegalurung Banyubiru, Kec. Dukun, Kabupaten Magelang.\n\n
+        </item>
+        <item>Mitra Tani Dua Tujuh atau biasa disingkat menjadi M27, adalah anak usaha PTPN X yang bergerak di bidang agroindustri edamame, okra, dan buncis.
+            Perusahaan ini didirkan pada 17 November 1994.\n\n
+            Mitra pertanian ini berlokasi di Jl. Brawijaya No.83, Wonosari, Mangli, Kec. Kaliwates, Kabupaten Jember, Jawa Timur 68136.\n\n
+        </item>
+        <item>Yayasan Agri Sustineri Indonesia yang didirikan pada tahun 2020 adalah organisasi nirlaba independen dengan fokus pada aktivitas sosial dan kemanusiaan
+            untuk mendukung pertanian yang berkelanjutan dan meningkatkan pendapatan dan kesejahteraan petani kecil Indonesia. Yayasan ini bergerak dalam
+            bidang pertanian jagung, beras, kentang, ubi jalar, dan pisang.\n\n
+            Mitra pertanian ini beralamatkan di Jl. Letjen TB. Simatupang No.41, Ragunan, Pasar Minggu, Jakarta.\n\n
+        </item>
+        <item>Mitra Tani Mandiri didirkan pada tahun 1996 dan merupakan mitra pertanian yang bertujuan untuk budidaya tanaman pangan, pohon buah-buahan dan kayu,
+            kacang-kacangan dan tanaman perkebunan, serta membantu melestarikan keanekaragaman hayati.\n\n
+            Mitra pertanian ini berlokasi JL. DI Panjaitan, Trikora, RT. III / RW. II, Bajawa, Kabupaten Ngada, Nusa Tenggara Timur, Indonesia.\n\n
+        </item>
+        <!--    umkm-->
+        <item>AKUMANDIRI adalah Sebuah organisasi profesi dan gerakan sosial ekonomi yang bersifat independen yang bertekad bahwa sebagai pelaku UMKM harus mampu mandiri dan maju.
+            Untuk mewujudkannya, AKUMANDIRI juga turut serta meningkatkan kesejahteraan sosial bagi Pelaku usaha Mikro Kecil yang belum mempunyai Legal di seluruh Indonesia.\n\n
+            AKUMANDIRI didirikan pada 2016 dan beralamatkan di AIA Central, Lv 31, Jl. Jend. Sudirman, RT.5/RW.4 Karet Semanggi, Jakarta.\n\n
+        </item>
+        <item>Komunitas Eksportir Muda Indonesia(KEMI) yang berlokasi di Semarang Tengah adalah lahir karena faktor keprihatinan dengan melihat sumber daya manusia yang begitu besar dibarengi melimpahnya sumber daya
+            alam dan bahan baku di tanah air namun sampai saat ini belum bisa dimaksimalkan secara berkesinambungan dan professional untuk menghasilkan nilai tambah yang sangat tinggi.
+            Atas kondisi tersebut maka atas kebersamaan dan kepedulian terhadap kemajuan bangsa ini, maka dibentuklah sebuah perkumpulan yang terdiri dari para pelaku usaha berorientasi
+            eksport untuk mengajak dan menyebarkan semangat eksport kaum muda dan pelaku usaha skala industri kecil dan menengah untuk berani bergerak ke perdagangan internasional.\n\n
+        </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/lele</item> <!-- AKUR -->
+        <item>@drawable/nila</item> <!-- BAROKAH -->
+        <item>@drawable/gurame</item> <!-- ADIGUNG SENTANA -->
+        <item>@drawable/ikanhias</item> <!-- CANDRA -->
+        <item>@drawable/mitra_tani_indonesia</item>
+        <item>@drawable/mitra_tani_dua_tujuh</item>
+        <item>@drawable/yasi</item>
+        <item>@drawable/mitra_tani_mandiri</item>
+        <item>@drawable/aku_mandiri</item>
+        <item>@drawable/kemi</item>
+    </integer-array>
+
+    <string-array name="no_telp_mitra">
+        <item>0895361392642</item> <!-- AKUR -->
+        <item>081262371558</item> <!-- BAROKAH -->
+        <item>081329997669</item> <!-- ADIGUNG SENTANA -->
+        <item>085228401966</item> <!-- CANDRA -->
+        <item>081227106404</item> <!-- mitra tani indonesia -->
+        <item>0331422222</item> <!-- mitra tani dua tujuh -->
+        <item>02129857332</item> <!-- yasi -->
+        <item>038421779</item> <!-- mitra tani mandiri -->
+        <item>081211977272</item> <!-- aku mandiri -->
+        <item>08121663942</item> <!-- kemi -->
+    </string-array>
 </resources>
